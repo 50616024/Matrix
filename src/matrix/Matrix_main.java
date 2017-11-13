@@ -19,7 +19,7 @@ public class Matrix_main {
 	
 		double d[][] = { {1, 1, 1, 1}, {1, 1, 1, -1}, {1, 1, -1, 1}, {1, -1, 1, 1} };
 		double e[] = {0, 4, -4, 2};
-		System.out.println("Solution ="+Arrays.toString(mlib.getSolution(d, e)));
+		//System.out.println("Solution ="+Arrays.toString(mlib.getSolution(d, e)));
 	}
 
 }
